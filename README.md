@@ -21,6 +21,7 @@
 8. Добавьте возможность зумить и отдалять картинку используя пинч
 9. Добавьте возможность поворачивать картинку используя ротейшн
 
-![alt tag](https://pp.vk.me/c622825/v622825080/4c916/RisPzs2ePcA.jpg,https://pp.vk.me/c622825/v622825080/4c920/54SEhbQkr1o.jpg)
+![alt tag](https://pp.vk.me/c622825/v622825080/4c916/RisPzs2ePcA.jpg)
+![alt tag](https://pp.vk.me/c622825/v622825080/4c920/54SEhbQkr1o.jpg)
 ![alt tag](https://pp.vk.me/c622825/v622825080/4c92a/bXt9e-e8I9s.jpg)
 
